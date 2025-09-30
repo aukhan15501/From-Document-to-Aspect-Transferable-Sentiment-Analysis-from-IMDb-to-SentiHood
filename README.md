@@ -9,26 +9,17 @@ This repository contains code, documentation, and resources for investigating tr
 
 ## Repository Structure
 Sentiment_Analysis_Project/
-│
-├── notebooks/                       # Jupyter notebooks for all experiments and demos
-│   ├── Sentiment__Analysis_V4.ipynb            # IMDb document-level sentiment training
-│   ├── Aspect_Analyses_with_results_v1.ipynb   # Aspect-level sentiment (Track A & B)
-│   └── Gradio_app.ipynb                        # Interactive Gradio demo
-│
-├── results/                        # Outputs from experiments and demos
-│   └── demo_output_video.mp4                   # Demonstration video file
-│
-├── docs/                          # Documentation and reports
-│   └── Digital_Huminities_AI_ABSA.pdf          # Full research report and analysis
-│
-├── src/                           # (Optional) Source code and helper modules if any
-│
-├── requirements.txt               # Python dependencies and package list
-├── README.md                     # Project overview and setup instructions (this file)
-
-
-
----
+Sentiment_Analysis_Project/
+├── notebooks/
+│ ├── Sentiment__Analysis_V4.ipynb # IMDb document-level sentiment training
+│ ├── Aspect_Analyses_with_results_v1.ipynb # Aspect-level sentiment (Track A & B)
+│ ├── Gradio_app.ipynb # Interactive Gradio demo
+├── results/
+│ └── demo_output_video.mp4 # Demo video output (excluding screenshots)
+├── docs/
+│ └── Digital_Huminities_AI_ABSA.pdf # Research report and documentation
+├── src/ # (Optional) source code files/modules
+├── requirements.txt # Python package dependencies
 
 ## Description of Contents
 
