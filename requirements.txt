@@ -1,0 +1,11 @@
+python>=3.8
+datasets
+evaluate
+gradio
+matplotlib
+numpy
+pandas
+seaborn
+scikit-learn
+torch
+transformers
